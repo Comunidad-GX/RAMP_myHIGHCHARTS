@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<Content xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Object id="RAMP_myHIGHCHARTS">
+		<Group>
+			<Name>General</Name>
+			<Type>Main</Type>
+			<Children>
+				<Group>
+					<Name>SDT_Data</Name>
+					<Childs>
+						<Prop>
+							<Id>Height</Id>
+							<Name>Height</Name>
+							<Type>Text</Type>
+							<Default>400px</Default>
+							<Metadata>
+								<Value name="FlagScope">Designtime &amp; Runtime</Value>
+							</Metadata>
+						</Prop>
+					</Childs>
+				</Group>
+			</Children>
+		</Group>
+	</Object>
+</Content>
